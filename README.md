@@ -1,3 +1,8 @@
+gogstash
+========
+
+A [Gog.com](http://www.gog.com/) downloader
+
 This project is not finished.
 
 I recommend using bundler to install any dependencies: gem install bundler
