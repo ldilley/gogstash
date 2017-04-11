@@ -1,0 +1,12 @@
+*.class
+*.crt
+*.dat
+*.key
+*.log
+*.out
+*.pem
+*.pid
+logs/
+rdoc/
+cookie.yml
+Gemfile.lock
